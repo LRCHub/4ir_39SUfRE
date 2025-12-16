@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ELECTRICAL COMMUNICATION",
+  "base_artist": "GANASIA",
+  "createdAt": "2025-12-16T13:48:09.173137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "electrical communication",
+      "artist": "ganasia",
+      "has_synced": false,
+      "path": "select/01_electrical_communication_ganasia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ELECTRICAL COMMUNICATION",
+      "artist": "GANASIA",
+      "has_synced": true,
+      "path": "select/02_ELECTRICAL_COMMUNICATION_GANASIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ELECTRICAL COMMUNICATION",
+      "artist": "GANASIA",
+      "has_synced": false,
+      "path": "select/pl_01_ELECTRICAL_COMMUNICATION_GANASIA.txt"
+    }
+  ]
+}
