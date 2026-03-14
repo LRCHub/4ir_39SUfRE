@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ELECTRICAL COMMUNICATION",
   "base_artist": "GANASIA",
-  "createdAt": "2025-12-16T13:48:09.173137Z",
+  "createdAt": "2026-03-14T12:26:48.467636Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,14 @@
       "artist": "GANASIA",
       "has_synced": true,
       "path": "select/02_ELECTRICAL_COMMUNICATION_GANASIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electrical Communication",
+      "artist": "Takumi Ozawa",
+      "has_synced": true,
+      "path": "select/03_Electrical_Communication_Takumi_Ozawa.lrc"
     },
     {
       "id": "petitlyrics_1",
